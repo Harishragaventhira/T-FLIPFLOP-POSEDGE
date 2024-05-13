@@ -65,11 +65,7 @@ Developed by : VARSHA A(212223220121)
 ![image](https://github.com/04Varsha/T-FLIPFLOP-POSEDGE/assets/149035374/c1849f12-d68d-46e4-b35f-c16112bcd7d7)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![image](https://github.com/04Varsha/T-FLIPFLOP-POSEDGE/assets/149035374/a6a68a6a-18e3-4ef7-894d-00ffd2616a5e)
-
-
-**TRUTH TABLE**
-![image](https://github.com/04Varsha/T-FLIPFLOP-POSEDGE/assets/149035374/26771521-cf86-4fce-ab44-2f3dd40ff1d8)
+![326663577-fdaadbde-54aa-4ef3-99fc-4c55a9739c6e](https://github.com/04Varsha/T-FLIPFLOP-POSEDGE/assets/149035374/d86b20de-a125-43fc-b4c7-58582813abcf)
 
 **RESULTS**
 Thus the program executed successfully.
