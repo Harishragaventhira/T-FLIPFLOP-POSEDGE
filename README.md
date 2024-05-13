@@ -68,10 +68,13 @@ endmodule
 Developed by : VARSHA A(212223220121)
 ~~~
 **RTL LOGIC FOR FLIPFLOPS**
-![image](https://github.com/04Varsha/T-FLIPFLOP-POSEDGE/assets/149035374/c1849f12-d68d-46e4-b35f-c16112bcd7d7)
+
+
+![329697108-61fd3809-f780-4197-8567-a2bc1e0d7e74](https://github.com/04Varsha/T-FLIPFLOP-POSEDGE/assets/149035374/dc18e2ee-f2c9-47c5-a373-bbea78e0ff03)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![326663577-fdaadbde-54aa-4ef3-99fc-4c55a9739c6e](https://github.com/04Varsha/T-FLIPFLOP-POSEDGE/assets/149035374/d86b20de-a125-43fc-b4c7-58582813abcf)
+
+![329697143-2a9c5ea9-5f76-41ed-ad92-eaa4d4bfccc0](https://github.com/04Varsha/T-FLIPFLOP-POSEDGE/assets/149035374/3320aeff-f20e-477b-af67-a641267cbf27)
 
 **RESULTS**
 Thus the program executed successfully.
