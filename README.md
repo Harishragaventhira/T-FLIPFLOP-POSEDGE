@@ -65,7 +65,7 @@ end
 assign q_bar = ~q;
 endmodule
 
-Developed by : VARSHA A(212223220121)
+Developed by : HARISH S(212223230072)
 ~~~
 **RTL LOGIC FOR FLIPFLOPS**
 
